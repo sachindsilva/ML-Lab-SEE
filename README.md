@@ -55,8 +55,8 @@
 
 <hr>
 
-** ✔️ `MSE-1 SOURCE CODES`**
---
+## ✔️ **`MSE-1 SOURCE CODES`**
+
 - [x] **[MSE1 Lab Source Codes](https://amppmann.github.io/Machine-Learning-SourceCodes/ML-Lab_Source_Codes.zip)**
 
 <hr/>
