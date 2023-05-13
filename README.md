@@ -3,17 +3,17 @@
 
 <hr>
 
-**MACHINE LEARNING (20IS607) LAB-SEE QUESTION PAPERS**
+🗞️**MACHINE LEARNING (20IS607) LAB-SEE QUESTION PAPERS** 🗞️
 
 - [x] 👉 **[Download Here](https://amppmann.github.io/Machine-Learning-SourceCodes/ML-SEE%20QP.pdf)**
 
 **`LAB MANUAL`**
 --
-- [ ] **[Machine Learning Lab Manual](https://amppmann.github.io/Machine-Learning-SourceCodes/%7BMachine%20Learning%7D-Lab%20Manual.pdf)**
+- [ ] **[Machine Learning Lab Manual](https://amppmann.github.io/Machine-Learning-SourceCodes/%7BMachine%20Learning%7D-Lab%20Manual.pdf)** 
 
 <hr>
 
-#### **` 👇 DOWNLOAD-ALL DATASETS 👇`**
+#### ✔️ **` 👇 DOWNLOAD-ALL DATASETS 👇`** 
 
 - [x] **[50_Startups.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/50_Startups.csv)**
 
@@ -55,13 +55,13 @@
 
 <hr>
 
-**`MSE-1 SOURCE CODES`**
+** ✔️ `MSE-1 SOURCE CODES`**
 --
 - [x] **[MSE1 Lab Source Codes](https://amppmann.github.io/Machine-Learning-SourceCodes/ML-Lab_Source_Codes.zip)**
 
 <hr/>
 
-## **`MSE-1 SOURCE CODES`**
+## ✔️ **`MSE-1 SOURCE CODES`**
 
 - [x] **[MSE2 Lab Source Codes](https://github.com/amppmann/Machine-Learning-SourceCodes/tree/main/MSE%202)**
 
