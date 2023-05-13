@@ -26,11 +26,11 @@
 
 - [x] **[Salary_Data.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Salary_Data.csv)**
 
-- [x] **[Position_Salaries.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/Position_Salaries.csv)**
+- [x] **[Position_Salaries.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Position_Salaries.csv)**
 
-- [x] **[Diabetes.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/diabetes.csv)**
+- [x] **[Diabetes.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/diabetes.csv)**
 
-- [x] **[Mall_Customers.csv](https://github.com/amppmann/Machine-Learning-SourceCodes/blob/main/Mall_Customers.csv)**
+- [x] **[Mall_Customers.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Mall_Customers.csv)**
 
 - [x] **[Churn_Modeling.csv](https://amppmann.github.io/Machine-Learning-SourceCodes/Churn_Modelling.csv)**
 
