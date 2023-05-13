@@ -5,7 +5,7 @@
 
 **MACHINE LEARNING (20IS607) LAB-SEE QUESTION PAPERS**
 
-- [x] 👉 [Download Here](https://amppmann.github.io/Machine-Learning-SourceCodes/ML-SEE%20QP.pdf) {:target="_blank"}
+- [x] 👉 **[Download Here](https://amppmann.github.io/Machine-Learning-SourceCodes/ML-SEE%20QP.pdf)**
 
 **`LAB MANUAL`**
 --
