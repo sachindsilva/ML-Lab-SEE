@@ -56,12 +56,12 @@
 <hr>
 
 ## ✔️ **`SOURCE CODE INDEX`**
-
+<!-- 
 👉 **`[FOLDER 01]`**
    - [x] **Implement the FIND-S algorithm for finding the most specific 
 hypothesis using the enjoy_sport dataset.**
      
-
+ -->
 
 ## ✔️ **`MSE-1 SOURCE CODES`**
 
