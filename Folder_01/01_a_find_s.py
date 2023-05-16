@@ -1,36 +1,30 @@
 import numpy as np
 import pandas as pd
 
-data=pd.read_csv('enjoy_sport.csv')
 
-print("Dataset :",data)
+data=pd.read_csv('Enjoy_sport1.csv')
 
-features=data.iloc[:,:-1].values
+print("Dataset : ",data)
 
-print("Features :",features)
-
+concepts=data.iloc[:,:-1].values
 target=data.iloc[:,-1].values
 
-
+print("Concepts : ",concepts)
 print("Target : ",target)
 
-def train(feat,tar):
+def train(conc,tar):
     for i,val in enumerate(tar):
-        
-        #NOTE : PLEASE MAKE SURE WHETHER THE DATASET TARGET VALUES MATCHES WITH THE CORRESPONDING CONDITIONAL VALUES** Eg:'Yes' and 'yes' are dissimilar phrases....**(Values are Case-Sensitive**)
         if val=="Yes":
-            specific_h=feat[i].copy()
+            specific_h=conc[i].copy()
             break
-        
-    for i,val in enumerate(feat):
+    for i,val in enumerate(conc):
         if tar[i]=="Yes":
             for x in range(len(specific_h)):
                 if val[x]!=specific_h[x]:
                     specific_h[x]="?"
                 else:
                     pass
+                
     return specific_h
 
-print("---Output---")
-print(train(features,target))
-
+print("Final specific_h : ",train(concepts,target))
