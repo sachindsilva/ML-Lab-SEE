@@ -54,14 +54,7 @@
 
 
 <hr>
-<!-- 
-## ✔️ **`SOURCE CODE INDEX`** -->
-<!-- 
-👉 **`[FOLDER 01]`**
-   - [x] **Implement the FIND-S algorithm for finding the most specific 
-hypothesis using the enjoy_sport dataset.**
-     
- -->
+
 
 ## ✔️ **`MSE-1 SOURCE CODES`**
 
@@ -69,7 +62,7 @@ hypothesis using the enjoy_sport dataset.**
 
 <hr/>
 
-## ✔️ **`MSE-1 SOURCE CODES`**
+## ✔️ **`MSE-2 SOURCE CODES`**
 
 - [x] **[MSE2 Lab Source Codes](https://github.com/amppmann/Machine-Learning-SourceCodes/tree/main/MSE%202)**
 
