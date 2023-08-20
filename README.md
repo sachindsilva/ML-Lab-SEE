@@ -107,13 +107,15 @@
 - [x] **[MSE2 Lab Source Codes](https://github.com/amppmann/Machine-Learning-SourceCodes/tree/main/MSE%202)**
 
 
-<div>
-<h5 align="center">Made with 💘 by Sachin D'silva👨🏻‍💻 </h5>
+<div align="center">
+
+Made with 💘 by [Sachin D'silva](https://github.com/sachindsilva16) 👨🏻‍💻
+
 </div>
 
-👉 **Official Repo   : [Follow Here](https://github.com/sachindsilva16)**
+
 <br>
-👉 **Resource Repo :  [Follow Here](https://github.com/amppmann)**
+
 
 
 
