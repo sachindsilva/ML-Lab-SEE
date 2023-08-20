@@ -6,6 +6,12 @@
 ## `FOLDER LINKS`
 
 - [x] **[01_finds_and_decision](https://github.com/amppmann/ML-Lab-SEE/tree/master/01_finds_and_decision)**
+- [x] **[02_candidate_and_random_forest](https://github.com/amppmann/ML-Lab-SEE/tree/master/02_candidate_and_random_forest)**
+- [x] **[03_Iris_and_KNN](https://github.com/amppmann/ML-Lab-SEE/tree/master/03_Iris_and_KNN)**
+- [x] **[04_KMeans_and_Linear_Regression](https://github.com/amppmann/ML-Lab-SEE/tree/master/04_KMeans_and_Linear_Regression)**
+- [x] **[05_ANN_and_Linear_regression_Housuing_Data](https://github.com/amppmann/ML-Lab-SEE/tree/master/05_ANN_and_Linear_regression_Housuing_Data)**
+- [x] **[06_naiveBayes_and_stock_linear_regression](https://github.com/amppmann/ML-Lab-SEE/tree/master/06_naiveBayes_and_stock_linear_regression)**
+- [x] **[07_Hierarchical_Clustering_and_SVM](https://github.com/amppmann/ML-Lab-SEE/tree/master/07_Hierarchical_Clustering_and_SVM)**
 
 
 🗞️**MACHINE LEARNING (20IS607) LAB-SEE QUESTION PAPERS** 🗞️
