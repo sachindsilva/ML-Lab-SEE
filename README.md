@@ -23,7 +23,7 @@
 
 **`7.Write a program to implement the k-Nearest Neighbor classification algorithm on the iris flower dataset and visualize the results.`**
 
-**`8.	Demonstrate the use of K-Means clustering algorithm on any preferred dataset. Use the elbow method to find the optimal number of clusters and visualize the clusters.`**
+**`8.Demonstrate the use of K-Means clustering algorithm on any preferred dataset. Use the elbow method to find the optimal number of clusters and visualize the clusters.`**
 
 **`9.Apply Hierarchical clustering on the customer segmentation dataset and visualize the clusters and plot the dendrograms.`**
 
