@@ -6,30 +6,32 @@
 
 ## 🗞️ `PROGRAM LIST` 🗞️ 
 **`Source code`** : __[Click Here](https://github.com/amppmann/ML-Lab-SEE/blob/master/Source%20code.docx)__
-1. *// Will be updated*
 
-`2.Implement the FIND-S algorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a CSV file.`
+***`1. // Will be updated`***
 
-`3.Demonstrate the working of the Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent with the training examples.`
+**`
+2.Implement the FIND-S algorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a CSV file.
+`**
 
-`4.Construct a decision tree based on the ID3 algorithm. Use an appropriate dataset for building the decision tree and apply this knowledge to classify a new sample.`
+**`3.Demonstrate the working of the Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent with the training examples.`**
 
-`5.Demonstrate the application of Linear regression to predict the stock market prices of any organization.`
+**`4.Construct a decision tree based on the ID3 algorithm. Use an appropriate dataset for building the decision tree and apply this knowledge to classify a new sample.`**
 
-`6.Demonstrate the use of the Support Vector Machine algorithm for a regression problem on any preferred dataset and evaluate the performance of the model.`
+**`5.Demonstrate the application of Linear regression to predict the stock market prices of any organization.`**
 
-`7.Write a program to implement the k-Nearest Neighbor classification algorithm on the iris flower dataset and visualize the results.`
+**`6.Demonstrate the use of the Support Vector Machine algorithm for a regression problem on any preferred dataset and evaluate the performance of the model.`**
 
-`8.	Demonstrate the use of K-Means clustering algorithm on any preferred dataset. Use the elbow method to find the optimal number of clusters and visualize the clusters.`
+**`7.Write a program to implement the k-Nearest Neighbor classification algorithm on the iris flower dataset and visualize the results.`**
 
-`9.Apply Hierarchical clustering on the customer segmentation dataset and visualize the clusters and plot the dendrograms.`
+**`8.	Demonstrate the use of K-Means clustering algorithm on any preferred dataset. Use the elbow method to find the optimal number of clusters and visualize the clusters.`**
 
-`10.Perform Random Forest classification on the Pima Indians diabetes dataset. `
+**`9.Apply Hierarchical clustering on the customer segmentation dataset and visualize the clusters and plot the dendrograms.`**
 
-`11.Write a program to implement the naïve Bayesian classifier for a sample training dataset. Compute the accuracy of the classifier and visualize the results.`
+**`10.Perform Random Forest classification on the Pima Indians diabetes dataset. `**
 
-`12.Build an Artificial Neural Network by implementing the Back propagation algorithm and test the same using appropriate datasets.
-`
+**`11.Write a program to implement the naïve Bayesian classifier for a sample training dataset. Compute the accuracy of the classifier and visualize the results.`**
+
+**`12.Build an Artificial Neural Network by implementing the Back propagation algorithm and test the same using appropriate datasets.`**
 ## `FOLDER LINKS`
 
 - [x] **[01_finds_and_decision](https://github.com/amppmann/ML-Lab-SEE/tree/master/01_finds_and_decision)**
