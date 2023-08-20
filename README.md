@@ -5,7 +5,7 @@
 
 ## `FOLDER LINKS`
 
-- [] **[01_finds_and_decision](https://github.com/amppmann/ML-Lab-SEE/tree/master/01_finds_and_decision)**
+- [x] **[01_finds_and_decision](https://github.com/amppmann/ML-Lab-SEE/tree/master/01_finds_and_decision)**
 
 
 🗞️**MACHINE LEARNING (20IS607) LAB-SEE QUESTION PAPERS** 🗞️
